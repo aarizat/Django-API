@@ -2,3 +2,4 @@
 
 ## Description:
 Example for build an API by using Django RESTframework
+# Added from a script
